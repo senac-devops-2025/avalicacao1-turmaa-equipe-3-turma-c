@@ -14,3 +14,6 @@ Configurar o ambiente de DevOps, criar pipeline CI com testes automatizados e re
 1. Pipeline funcional no GitHub Actions
 2. Prints das ferramentas e deploy no Azure
 3. Link do repositório no GitHub Classroom
+
+## Status do Build
+[![CI](https://github.com/senac-devops-2025/avalicacao1-turmaa-equipe-3-turma-c/actions/workflows/ci.yml/badge.svg) ](https://github.com/senac-devops-2025/avalicacao1-turmaa-equipe-3-turma-c/actions/workflows/ci.yml)
